@@ -1,5 +1,11 @@
 # @aws-amplify/ui-react
 
+## 3.0.1
+
+### Patch Changes
+
+- [#2132](https://github.com/aws-amplify/amplify-ui/pull/2132) [`3ace39ce0`](https://github.com/aws-amplify/amplify-ui/commit/3ace39ce07454a0ef53bc94491dac6183d89da43) Thanks [@joebuono](https://github.com/joebuono)! - Add missing prop descriptions
+
 ## 3.0.0
 
 ### Major Changes
